@@ -1,5 +1,8 @@
 # matrix_methods_image_processing
-Image Processing code for APPM 3310 Final Project at CU Boulder
+#### By Peter LeCavalier, Emily Kaiser, Katie Simon
+Image Processing code for APPM 3310 Final Project at CU Boulder <br>
+
+
 
 __Code__ <br>
 All code can be found in img_manip.py. This code was developed using Python 3.9.7. <br>
